@@ -1,6 +1,9 @@
 # Baum
-
 [![Build Status](https://travis-ci.org/etrepat/baum.png?branch=master)](https://travis-ci.org/etrepat/baum)
+
+## Important Information
+> This fork was only created to provide a quick solution to upgrade my applications to Laravel 6.0.
+> As I am not the maintainer of this package I will not provide any aditional support or updates for this package!
 
 Baum is an implementation of the [Nested Set](http://en.wikipedia.org/wiki/Nested_set_model) pattern for [Laravel 5's](http://laravel.com/) Eloquent ORM.
 
